@@ -1,4 +1,6 @@
-![app_logo.png](assets%2Fimages%2Fapp_logo.png)
+<p align="center">
+  <img src="assets%2Fimages%2Fapp_logo.png">
+</p>
 
 # dial_my_fable
 A flutter project that uses the callchimp and cron-job APIs to send a daily call to the user and narrate a story to them based on selected category in app.
@@ -29,7 +31,7 @@ This project uses Firebase for authentication and database. To set up Firebase, 
 - Create a new project in the Firebase console
 - Enable phone authentication in the Firebase console
 - Enable firestore in the Firebase console
-- Use flutterfire cli to generate the required project files by running `flutterfire configure` 
+- Use `flutterfire cli` to generate the required project files by running `flutterfire configure` 
 
 ## Project Structure
 
