@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708741268281",
+    "project_id": "dialmyfable",
+    "storage_bucket": "dialmyfable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708741268281:android:5bd2f30cd5adeb960e5ee8",
+        "android_client_info": {
+          "package_name": "com.shatanik.dial_my_fable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRloiTF7UNyS-C_P_pr1jRwz5K9uR-hTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
